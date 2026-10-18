@@ -1,7 +1,5 @@
 <div align="center">
 
-# 🎬 Sadesha Films Thumbnail & Media Bot
-
 **Automatic movie/series identification, landscape artwork search, Telegram thumbnail processing, smart renaming and channel publishing.**
 
 <p>
